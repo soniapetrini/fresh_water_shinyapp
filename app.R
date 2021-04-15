@@ -546,7 +546,7 @@ server <- function(input,output, session){
                       species_map()$family, "<br/>Genus: ",
                       species_map()$genus, "<br/>Last observation: ",
                       species_map()$event_year)) %>%
-      addLegend(pal = pal,
+      leaflet::addLegend(pal = pal,
                 values = factor(category, levels=cat_choice),
                 title = "Risk Categories",
                 opacity = 1)
@@ -578,7 +578,7 @@ server <- function(input,output, session){
                       areas()$family, "<br/>Genus: ",
                       areas()$genus, "<br/>Last observation: ",
                       areas()$event_year)) %>%
-      addLegend(pal = pal,
+      leaflet::addLegend(pal = pal,
                 values = factor(category, levels=cat_choice),
                 title = "Risk Categories",
                 opacity = 1)
