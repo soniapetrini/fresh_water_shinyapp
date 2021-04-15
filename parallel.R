@@ -3,6 +3,7 @@
 # so that dataframe manipulations can be carried out in parallel on each cluster.
 # However, as proven here, the small dimensions of the dataset are such that the 
 # performance is made worse off when the computation is done on multiple cores.
+# (The test is run on a sample manipulation from the server function).
 
 install.packages("multidplyr")
 install.packages("devtools")
