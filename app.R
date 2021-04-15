@@ -9,12 +9,13 @@
 #library(plotly)
 #library(janitor)
 #library(DT)
+#library(shinyWidgets)
 
 
 load_pckg <- function(){
   if(!require('pacman'))install.packages('pacman')
   pacman::p_load(shiny,leaflet,tidyverse,ggplot2,RColorBrewer,viridis,shinydashboard,
-                 plotly,janitor,DT)
+                 plotly,janitor,DT,shinyWidgets)
 }
 
 load_pckg()
