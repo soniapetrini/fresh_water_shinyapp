@@ -1,4 +1,4 @@
-# fresh_water_shinyapp
+# Endangered Species Shiny
 ## *Fresh Water Systems' Endangered Species Observatory*
 
 Welcome! This ShinyApp was built to allow the visualization of spatial data provided by IUCN Red List (https://www.iucnredlist.org/), concerning the endangerment of animals and plants belonging to the fresh waters systems.
