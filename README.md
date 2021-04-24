@@ -1,4 +1,5 @@
 # Endangered Species Shiny App
+--------------------
 ## *Fresh Water Systems' Endangered Species Observatory*
 
 Welcome! 
@@ -18,8 +19,8 @@ To get an understanding of the situation in the recent decades, I have subsetted
 Moreover, I have turned panel data into a cross-section in order to focus on the spatial dimension, by only considering the date of the last observation for each species in each area.
 
 
-
-## Structure
+--------------------
+## ◊ Structure
 
   - ### *Main*
 Get an overview of the data through an interactive worldwide map: select which kingdoms, areas, categories, and classes you want to visualize and see where the corresponding species are located on the globe. You can also see the number of threatened and near threatened species found in each area.
@@ -32,8 +33,8 @@ You will get information regarding the risk of the species' class and phylum, bo
 Focus on a specific continent. You can see the number of threatened species by class or phylum in the two different kingdoms, and the partition of the total observed species according to the IUCN categories.
 
 
-
-## Data Source
+--------------------
+## ◊ Data Source
 
 The data was provided by IUCN Red List, under approval:
 https://www.iucnredlist.org/resources/spatial-data-download
@@ -41,8 +42,8 @@ Spatial Data Download
 Freshwater Groups, point
 
 
-
-## Support IUCN
+--------------------
+## ◊ Support IUCN
 
 IUCN is the world’s most comprehensive information source on the global extinction risk status of animal, fungus and plant species.
 Its goal is to reach the assessment of 160.000 species; 134,400 have been evaluated so far.
