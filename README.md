@@ -7,7 +7,7 @@ You can find the ShinyApp at https://soniapetrini.shinyapps.io/fw_shiny/ .
 The aim of this tool is to allow the visualization of spatial data provided by IUCN Red List (https://www.iucnredlist.org/), concerning the endangerment of animals and plants belonging to the fresh waters systems.
 All the included species are labelled with the threat category they belong to, according to the IUCN classification of risk:
 
-![Screenshot 2021-04-15 at 21 59 32](https://user-images.githubusercontent.com/78147483/114930987-ea856c80-9e35-11eb-87f1-7e32456d3cf5.png)
+![Screenshot 2021-04-25 at 00 39 44](https://user-images.githubusercontent.com/78147483/115974705-c7a63700-a55e-11eb-84fd-15afe932774a.png)
 
   - *Critically Endangered, Endangered and Vulnerable*: species threatened with global extinction.
   - *Near Threatened*: species close to the threatened thresholds or that would be threatened without ongoing conservation measures.
