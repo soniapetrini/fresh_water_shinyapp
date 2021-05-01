@@ -4,8 +4,9 @@
 
 Welcome! 
 You can find the ShinyApp at https://soniapetrini.shinyapps.io/fw_shiny/ .
+(Please note that the Application's layout was designed for desktops, but soon a new improved version will be available)
 
-The aim of this tool is to allow the visualization of spatial data provided by IUCN Red List (https://www.iucnredlist.org/), concerning the endangerment of animals and plants belonging to the fresh waters systems.
+The aim of this tool is to allow the visualization of spatial data provided by IUCN Red List (https://www.iucnredlist.org/), concerning the endangerment of animals and plants belonging to the fresh waters systems. 
 All the included species are labelled with the threat category they belong to, according to the IUCN classification of risk:
 
 ![Screenshot 2021-04-25 at 00 39 44](https://user-images.githubusercontent.com/78147483/115974705-c7a63700-a55e-11eb-84fd-15afe932774a.png)
@@ -15,8 +16,9 @@ All the included species are labelled with the threat category they belong to, a
   - *Least Concern*: species evaluated with a lower risk of extinction.
   - *Data Deficient*: no assessment because of insufficient data.
 
+By focusing on a species or on a geographic area, it is possible to plot information about it's rate of endangerment.
 To get an understanding of the situation in the recent decades, I have subsetted the data to only include the records from 2000 to the current day.
-Moreover, I have turned panel data into a cross-section in order to focus on the spatial dimension, by only considering the date of the last observation for each species in each area.
+Moreover, I have turned panel data into a cross-section in order to focus on the spatial dimension, by only considering the date of the last observation for each species in each area. 
 
 
 --------------------
