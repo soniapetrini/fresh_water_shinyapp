@@ -4,7 +4,7 @@
 
 Welcome! 
 You can find the ShinyApp at https://soniapetrini.shinyapps.io/fw_shiny/ .
-(Please note that the Application's layout was designed for desktops, but soon a new improved version will be available)
+(Please note that the Application's layout was designed for desktops, but a new improved version will be available soon.)
 
 The aim of this tool is to allow the visualization of spatial data provided by IUCN Red List (https://www.iucnredlist.org/), concerning the endangerment of animals and plants belonging to the fresh waters systems. 
 All the included species are labelled with the threat category they belong to, according to the IUCN classification of risk:
