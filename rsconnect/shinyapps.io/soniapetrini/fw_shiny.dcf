@@ -1,0 +1,13 @@
+name: fw_shiny
+title:
+username:
+account: soniapetrini
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4025655
+bundleId: 4544504
+url: https://soniapetrini.shinyapps.io/fw_shiny/
+when: 1619904092.71203
+lastSyncTime: 1619904092.71205
+asMultiple: FALSE
+asStatic: FALSE
