@@ -1,25 +1,24 @@
 
-library(shiny)
-library(leaflet)
-library(tidyverse)
-library(ggplot2)
-library(RColorBrewer)
-library(viridis)
-library(shinydashboard)
-library(plotly)
-library(janitor)
-library(DT)
-library(shinyWidgets)
-#remotes::install_github("daqana/dqshiny")
-library(dqshiny)
+#library(shiny)
+#library(leaflet)
+#library(tidyverse)
+#library(ggplot2)
+#library(RColorBrewer)
+#library(viridis)
+#library(shinydashboard)
+#library(plotly)
+#library(janitor)
+#library(DT)
+#library(shinyWidgets)
+#library(dqshiny)
 
-#pckg_check <- function(){
-#  if(!require('pacman'))install.packages('pacman')
-#  pacman::p_load(shiny,leaflet,tidyverse,ggplot2,RColorBrewer,viridis,shinydashboard,
-#                 plotly,janitor,DT,shinyWidgets,dqshiny)
-#}
-#
-#pckg_check()
+pckg_check <- function(){
+  if(!require('pacman'))install.packages('pacman')
+  pacman::p_load(shiny,leaflet,tidyverse,ggplot2,RColorBrewer,viridis,shinydashboard,
+                 plotly,janitor,DT,shinyWidgets,dqshiny)
+}
+
+pckg_check()
 
 
 last_date_tib <- read.csv("last_date.csv")
